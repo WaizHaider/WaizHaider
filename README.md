@@ -15,7 +15,7 @@
 
 ## 💼 About Me
 
-🎓 Graduated in **Information Technology**  
+🎓 Graduated in **Computer science**  
 🧠 Working on projects in **Generative AI**, **Medical Vision**, and **Smart Applications**  
 🌐 Building scalable systems across **Web**, **Mobile**, and **Cloud**  
 🎯 Focused on innovation, performance, and real-world impact  
