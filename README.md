@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Apr 26, 2025, 12_58_49 AM](https://github.com/user-attachments/assets/48ce1bc9-90d7-479a-a5a8-5892198c5eef" alt="Waiz Haider Banner" width="100%" />
+  <img src="![ChatGPT Image Apr 26, 2025, 12_58_49 AM](https://github.com/user-attachments/assets/79bb4548-98b3-4566-a6a6-c5097f4b0e4b)" alt="Waiz Haider Banner" width="100%" />
 
 </p>
 
