@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://your-image-link/banner.png" alt="Waiz Haider Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Waiz Haider</h1>
 
 <p align="center">
-  <b>AI Developer | Data Scientist | Mobile App Developer | Software Engineer</b><br/>
-  Passionate about solving real-world problems using AI, Cloud, and Scalable Systems.
+  <b>AI Developer | Data Scientist | Mobile Engineer | Cloud Enthusiast</b><br/>
+  Bridging AI, Engineering, and Innovation to Build a Smarter Future.
 </p>
 
 <p align="center">
@@ -15,40 +19,51 @@
 
 ## 💼 About Me
 
-🎓 Graduated in **Computer science**  
-🧠 Working on projects in **Generative AI**, **Medical Vision**, and **Smart Applications**  
-🌐 Building scalable systems across **Web**, **Mobile**, and **Cloud**  
-🎯 Focused on innovation, performance, and real-world impact  
-📍 Based in Islamabad, Pakistan
+- 🎓 **Computer Science Graduate** passionate about AI and product-driven engineering
+- 🚀 Building solutions across **Generative AI**, **Medical Vision**, and **Smart Mobile Apps**
+- ☁️ Architecting **scalable systems** on **Web**, **Mobile**, and **Cloud**
+- 🔬 Research-driven mindset with a focus on **real-world impact**
+- 🌍 Based in **Islamabad, Pakistan**, collaborating globally
 
 ---
 
-## 🚀 Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### 🧠 AI/ML:
-`Generative AI` `Vision Transformers` `NLP` `Computer Vision` `CNNs` `Synthetic Data`
+### 🧠 Artificial Intelligence
+`Generative AI` | `Vision Transformers` | `Diffusion Models` | `NLP` | `Computer Vision` | `Synthetic Data`
 
-### 👨‍💻 Programming:
-`Python` `Dart` `JavaScript` `C++` `Java` `SQL`
+### 👨‍💻 Programming Languages
+`Python` | `Dart` | `JavaScript` | `C++` | `Java` | `SQL`
 
-### 💻 Frameworks & Libraries:
-`TensorFlow` `PyTorch` `OpenCV` `Flutter` `Node.js` `React` `Firebase` `Django`
+### 🧩 Frameworks & Libraries
+`TensorFlow` | `PyTorch` | `OpenCV` | `Flutter` | `Node.js` | `React` | `Firebase` | `Django`
 
-### ☁️ Cloud & DevOps:
-`AWS` `GCP` `Docker` `CI/CD` `REST APIs`
+### ☁️ Cloud & DevOps
+`AWS` | `GCP` | `Docker` | `CI/CD Pipelines` | `REST APIs` | `Scalable Deployments`
 
 ---
 
-## 🔬 Highlight Projects
+## 🚀 Featured Projects
 
-| Project                        | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| 🩺 **Pneumonia Detector**     | Vision Transformer model for detecting pneumonia from X-rays                |
-| 📱 **Tourify**                | Flutter app to plan custom travel itineraries                              |
-| 📊 **Games & Study Analytics**| Power BI + Python dashboard on gaming impact on student performance        |
-| 🤖 **GPT-4 Medical Chatbot**  | Conversational agent for medical queries using GPT-4                       |
-| 🧴 **Skin Visualizer (Diffusion)** | Aesthetic treatment simulator using Stable Diffusion                     |
-| 🎭 **Fake News Detection**    | NLP model to classify real vs fake news with high accuracy                 |
+| Project                            | Description                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------|
+| 🩺 **Pneumonia Detector**           | Transformer-based model for X-ray pneumonia detection                                |
+| 🤖 **GPT-4 Medical Chatbot**        | Conversational AI agent trained on medical knowledge                                |
+| 🧴 **Skin Visualizer (Diffusion)**  | Generative diffusion model for aesthetic skin treatment simulations                 |
+| 📱 **Tourify**                      | Flutter-based smart travel planner with custom itineraries                          |
+| 🎭 **Fake News Detection**          | High-accuracy NLP model for classifying misinformation                              |
+| 📊 **Games & Study Analytics**      | Data dashboard analyzing gaming's impact on academic performance                    |
+
+> Explore full portfolio [here](https://waizhaider.github.io/Waiz-Portfolio/) 🌟
+
+---
+
+## 🎯 Current Focus Areas
+
+- 🧠 Fine-tuning GPT for domain-specific intelligent assistants
+- 🧬 Diffusion models for **medical and healthcare visualization**
+- 📦 Building end-to-end ML apps with **containerized** and **cloud-first** pipelines
+- 🔍 AI Explainability, Trustworthy AI, and Feedback-Driven ML Systems
 
 ---
 
@@ -63,21 +78,13 @@
 
 ---
 
-## 🧠 Current Focus
+## 📬 Let's Connect
 
-- 🔍 GPT fine-tuning for domain-specific assistants  
-- 🧬 Diffusion models in healthcare visualization  
-- 📦 End-to-end app deployment with containerized ML pipelines  
-- 💡 AI explainability and feedback-driven ML systems  
-
----
-
-## 📫 Contact
-
-- 📧 Email: [w1a2i3z4@gmail.com](mailto:w1a2i3z4@gmail.com)  
-- 🌐 Website: [waizhaider.github.io/Waiz-Portfolio](https://waizhaider.github.io/Waiz-Portfolio)  
+- 📧 Email: [w1a2i3z4@gmail.com](mailto:w1a2i3z4@gmail.com)
+- 🌐 Portfolio: [waizhaider.github.io/Waiz-Portfolio](https://waizhaider.github.io/Waiz-Portfolio)
 - 💼 LinkedIn: [linkedin.com/in/waiz-haider](https://linkedin.com/in/waiz-haider)
 
 ---
 
-<p align="center"><i>"The best way to predict the future is to build it." – Alan Kay</i></p>
+<p align="center"><i>"Dream big, stay grounded, and code the future you believe in."</i></p>
+
